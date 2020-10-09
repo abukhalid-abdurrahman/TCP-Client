@@ -1,0 +1,13 @@
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\bin\Debug\netcoreapp3.1\TCPRequest.exe
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\bin\Debug\netcoreapp3.1\TCPRequest.deps.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\bin\Debug\netcoreapp3.1\TCPRequest.runtimeconfig.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\bin\Debug\netcoreapp3.1\TCPRequest.runtimeconfig.dev.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\bin\Debug\netcoreapp3.1\TCPRequest.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\bin\Debug\netcoreapp3.1\TCPRequest.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\obj\Debug\netcoreapp3.1\TCPRequest.csprojAssemblyReference.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\obj\Debug\netcoreapp3.1\TCPRequest.AssemblyInfoInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\obj\Debug\netcoreapp3.1\TCPRequest.AssemblyInfo.cs
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\obj\Debug\netcoreapp3.1\TCPRequest.csproj.CoreCompileInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\obj\Debug\netcoreapp3.1\TCPRequest.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\obj\Debug\netcoreapp3.1\TCPRequest.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Console\TCPRequest\obj\Debug\netcoreapp3.1\TCPRequest.genruntimeconfig.cache
